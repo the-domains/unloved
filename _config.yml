@@ -1,0 +1,28 @@
+name: unloved
+favicon: null
+layout_spectrum: 0.3006318851839751
+typography_spectrum: 0.5370492087677121
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5681358103174716
+  lightness: 0.5982426977716386
+  saturation: 0.7263654004782438
+  rhythmicContrast: 0.01865306869149208
+purpose: []
