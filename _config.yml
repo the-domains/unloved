@@ -1,7 +1,7 @@
 name: unloved
 favicon: null
-layout_spectrum: 0.3006318851839751
-typography_spectrum: 0.5370492087677121
+layout_spectrum: 0
+typography_spectrum: 0.93306
 cta:
   domain: null
   bucket: null
