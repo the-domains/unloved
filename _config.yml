@@ -1,6 +1,6 @@
 name: unloved
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.50109
 typography_spectrum: 0.93306
 title: the unloved
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0
   lightness: 0.5
   saturation: 1
-  rhythmicContrast: 1
+  rhythmicContrast: 0
 purpose: []
